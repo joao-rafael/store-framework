@@ -15,7 +15,7 @@
 
 .infoCardCallActionContainer :global(.vtex-button):hover {
     color: gray;
-    background-color: blue;
+    background-color: white;
     border: transparent;
 }
 
@@ -32,10 +32,6 @@
 .infoCardHeadline{
     font-weight: bold;
     color: black;
-}
-
-.infoCardCallActionContainer:hover{
-    background-color: white;
 }
 
 .infoCardContainer--metal{
