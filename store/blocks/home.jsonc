@@ -96,7 +96,7 @@
   
   "rich-text#mobile": {
     "props": {
-      "text": "<h3> Your Coffee, Your Way</h3> \n <h4>New Coffee Makers Collectio</h4>",
+      "text": "### Your Coffee, Your Way \n #### New Coffee Makers Collectio",
       "textPosition": "CENTER",
       "textAlignment": "CENTER"
     }
