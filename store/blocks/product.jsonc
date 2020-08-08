@@ -55,8 +55,6 @@
 
   "buy-button": {
     "props": {
-      "isOneClickBuy": true,
-      "showTooltipOnSkuNotSelected": false,
       "showSavings": true,
       "showListPrice": true
     }
