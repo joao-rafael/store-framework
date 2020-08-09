@@ -65,6 +65,15 @@
     ]
   },
 
+  "sku-selector": {
+    "props": {
+      "hideImpossibleCombinations": true,
+      "initialSelection": "empty",
+      "showValueForVariation": "all",
+      "showVariationsErrorMessage": true
+    }
+  },
+
   "product-images": {
     "props": {
       "displayThumbnailsArrows": true
@@ -89,15 +98,6 @@
     "props": {
       "showSavings": true,
       "showListPrice": true
-    }
-  },
-
-  "sku-selector": {
-    "props": {
-      "hideImpossibleCombinations": false,
-      "initialSelection": "empty",
-      "showValueForVariation": "all",
-      "showVariationsErrorMessage": true
     }
   }
 }
