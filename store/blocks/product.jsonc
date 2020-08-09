@@ -96,7 +96,7 @@
     "props": {
       "initialSelection": "empty",
       "showValueForVariation": "all",
-      "showVariationsErrorMessage": true
+      "showVariationsErrorMessage": "true"
     }
   }
 }
