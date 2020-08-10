@@ -11,9 +11,9 @@
             "minWidth": "100%"
         }
     },
-    "search-result-layout.customQuery":{
-        "props": {
-            "querySchema": {
+    "search-result-layout.customQuery" : {
+        "props" : {
+            "querySchema" : {
                 "hiddenOptions": "OrderByReleaseDateDESC",
                 "hideUnavailableItems": true,
                 "maxItemsPerPage": 8,
