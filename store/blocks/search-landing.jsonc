@@ -14,10 +14,10 @@
     "search-result-layout.customQuery":{
         "props": {
             "querySchema": {
-              "hiddenOptions": ["OrderByReleaseDateDESC"],
-              "hideUnavailableItems": true,
-              "maxItemsPerPage": 8,
-              "queryField": "Blue Top Retro Camera"
+                "hiddenOptions": "OrderByReleaseDateDESC",
+                "hideUnavailableItems": true,
+                "maxItemsPerPage": 8,
+                "queryField": "Blue Top Retro Camera"
             }
         }
     }
