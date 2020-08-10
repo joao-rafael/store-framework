@@ -33,7 +33,7 @@
         "children": [
             "vtex.menu@2.x:menu#electronics"
         ]
-    },
+    }
     /**
     "vtex.menu@2.x:menu#electronics": {
         "children": [
